@@ -9,7 +9,7 @@ public class GithubActionExampleApplication {
     public static void main(String[] args) {
         SpringApplication.run(GithubActionExampleApplication.class, args);
 
-        System.out.println("아~~~ git 밉다..");
+        System.out.println("dddddddddd");
 
     }
 
