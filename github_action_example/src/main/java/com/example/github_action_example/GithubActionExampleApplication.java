@@ -8,6 +8,7 @@ public class GithubActionExampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GithubActionExampleApplication.class, args);
+        System.out.println("dtd");
     }
 
 }
