@@ -10,7 +10,7 @@ public class GithubActionExampleApplication {
         SpringApplication.run(GithubActionExampleApplication.class, args);
 
         System.out.println("dddddddddd");
-
+        System.out.println("ㅇㅅㅇ??");
     }
 
 }
